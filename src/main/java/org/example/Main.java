@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello git session attendees!");
 
         //dev starts
+
+        //some line
     }
 }
