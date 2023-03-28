@@ -4,3 +4,5 @@ this line is part of commit M2
 this line is part of commit B1
 this line is part of commit B2
 this line is part of commit B3
+
+this line is part of commit B4
